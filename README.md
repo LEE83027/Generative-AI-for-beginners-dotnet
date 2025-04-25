@@ -30,10 +30,10 @@ Don't forget to [star (🌟) this repo](https://docs.github.com/en/get-started/e
 
 We're constantly improving this course with the latest AI tools and models:
 
-- **MCP Library Integration**: We've integrated the [Model Context Protocol C# SDK](https://github.com/modelcontextprotocol/csharp-sdk) to provide a standardized way to communicate with AI models across different providers. This allows for more consistent model interactions while reducing provider lock-in. Check our samples in the Core Techniques section!
-  - [5 min video overview of an Aspire + MCP demo](https://www.youtube.com/watch?v=2holzbob1_I)
-  - Sample code for the video in the [04-PracticalSamples/src/Aspire.MCP.Sample.sln](./04-PracticalSamples/src/Aspire.MCP.Sample.sln) solution.
-  
+- **eShopLite Repository**: All eShopLite scenarios are now available in a single repository: [https://aka.ms/eshoplite/repo](https://aka.ms/eshoplite/repo)
+
+  The repository includes scenarios such as: Semantic Search (keyword and semantic search), Azure AI Search (SQL and vector search with Azure AI Search), Realtime Audio (advanced search and real-time audio with GPT models), Chroma DB (semantic search using Chroma DB), DeepSeek-R1 (integration for enhanced semantic search using a reasoning model), and Model Context Protocol (MCP) for advanced AI interactions with MCP Servers and Clients.
+
 [View all previous updates in our What's New section](./10-WhatsNew/readme.md)
 
 ## 🚀 Introduction
